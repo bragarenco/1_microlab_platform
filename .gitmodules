@@ -1,0 +1,6 @@
+[submodule "prj\\BSW\\com\\driver\\serial"]
+	path = prj\\BSW\\com\\driver\\serial
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/serial_unit.git
+[submodule "prj\\BSW\\com\\driver\\mrf24j40"]
+	path = prj\\BSW\\com\\driver\\mrf24j40
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/mrf24j40_unit.git
