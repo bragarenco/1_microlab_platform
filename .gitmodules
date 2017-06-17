@@ -4,3 +4,51 @@
 [submodule "prj\\BSW\\com\\driver\\mrf24j40"]
 	path = prj\\BSW\\com\\driver\\mrf24j40
 	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/mrf24j40_unit.git
+[submodule "prj\\BSW\\io\\dio"]
+	path = prj\\BSW\\io\\dio
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/dio_unit.git
+[submodule "prj\\BSW\\io\\pwm"]
+	path = prj\\BSW\\io\\pwm
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/pwm_unit.git
+[submodule "prj\\BSW\\lib\\ringbuffer"]
+	path = prj\\BSW\\lib\\ringbuffer
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/ringbuffer_unit.git
+[submodule "prj\\BSW\\lib\\utils"]
+	path = prj\\BSW\\lib\\utils
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/utils_unit.git
+[submodule "prj\\BSW\\sys\\scheduler"]
+	path = prj\\BSW\\sys\\scheduler
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/scheduler_unit.git
+[submodule "prj\\ESW\\actuator\\l298"]
+	path = prj\\ESW\\actuator\\l298
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/l298_unit.git
+[submodule "prj\\ESW\\hmi\\keymatrix"]
+	path = prj\\ESW\\hmi\\keymatrix
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/keymatrix_unit.git
+[submodule "prj\\ESW\\hmi\\hd44780"]
+	path = prj\\ESW\\hmi\\hd44780
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/hd44780_unit.git
+[submodule "prj\\ESW\\hmi\\stdio"]
+	path = prj\\ESW\\hmi\\stdio
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/stdio_unit.git
+[submodule "prj\\ESW\\modules\\chassis2wd"]
+	path = prj\\ESW\\modules\\chassis2wd
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/chassis2wd_unit.git
+[submodule "prj\\ESW\\modules\\motordc"]
+	path = prj\\ESW\\modules\\motordc
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/motordc_unit.git
+[submodule "prj\\ESW\\sensor\\bumper"]
+	path = prj\\ESW\\sensor\\bumper
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/bumper_unit.git
+[submodule "prj\\ESW\\sensor\\shaftencoder"]
+	path = prj\\ESW\\sensor\\shaftencoder
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/shaftencoder_unit.git
+[submodule "prj\\ESW\\sensor\\hc-sr04"]
+	path = prj\\ESW\\sensor\\hc-sr04
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/hc-sr04_unit.git
+[submodule "prj\\ESW\\sensor\\lm20"]
+	path = prj\\ESW\\sensor\\lm20
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/lm20_unit.git
+[submodule "prj\\ESW\\sensor\\linesensor"]
+	path = prj\\ESW\\sensor\\linesensor
+	url = http://andrei.bragarenco@repo.microlab.club/scm/mlp/linesensor_unit.git
